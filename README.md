@@ -1,7 +1,7 @@
 # 在GitHub的OverView中展示GitHub项目卡片
 在GitHub上的OverView中展示GitHub项目卡片，默认只有6个，例如：
 
-![alt text](imgs/image.png)
+![alt text](imgs/Pinned.png)
 
 可以通过下面的方式展示更多的项目卡片。
 
